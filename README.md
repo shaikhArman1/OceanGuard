@@ -7,3 +7,5 @@
 <!-- commit-log: 2026-02-07T15:52:34 - chore: update requirements.txt with pinned versions -->
 
 <!-- commit-log: 2026-02-11T10:12:00 - fix: adjust threshold values based on testing -->
+
+<!-- commit-log: 2026-02-12T11:46:37 - fix: resolve import ordering and circular dependency -->
