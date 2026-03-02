@@ -17,3 +17,5 @@
 <!-- commit-log: 2026-02-24T10:05:06 - feat: improve error messages for user feedback -->
 
 <!-- commit-log: 2026-02-26T12:25:31 - feat: add input validation and error handling -->
+
+<!-- commit-log: 2026-03-02T22:48:44 - feat: add input validation and error handling -->
