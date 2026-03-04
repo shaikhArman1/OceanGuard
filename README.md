@@ -19,3 +19,5 @@
 <!-- commit-log: 2026-02-26T12:25:31 - feat: add input validation and error handling -->
 
 <!-- commit-log: 2026-03-02T22:48:44 - feat: add input validation and error handling -->
+
+<!-- commit-log: 2026-03-04T18:52:25 - refactor: rename variables for clarity -->
