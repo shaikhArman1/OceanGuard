@@ -21,3 +21,5 @@
 <!-- commit-log: 2026-03-02T22:48:44 - feat: add input validation and error handling -->
 
 <!-- commit-log: 2026-03-04T18:52:25 - refactor: rename variables for clarity -->
+
+<!-- commit-log: 2026-03-08T10:27:44 - refactor: move config values to constants file -->
