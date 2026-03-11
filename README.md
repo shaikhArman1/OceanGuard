@@ -25,3 +25,5 @@
 <!-- commit-log: 2026-03-08T10:27:44 - refactor: move config values to constants file -->
 
 <!-- commit-log: 2026-03-11T10:06:45 - refactor: extract helper functions for better modularity -->
+
+<!-- commit-log: 2026-03-11T21:56:14 - feat: add input validation and error handling -->
