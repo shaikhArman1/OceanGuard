@@ -27,3 +27,5 @@
 <!-- commit-log: 2026-03-11T10:06:45 - refactor: extract helper functions for better modularity -->
 
 <!-- commit-log: 2026-03-11T21:56:14 - feat: add input validation and error handling -->
+
+<!-- commit-log: 2026-03-12T15:36:43 - feat: add input validation and error handling -->
