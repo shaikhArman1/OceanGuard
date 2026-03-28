@@ -33,3 +33,5 @@
 <!-- commit-log: 2026-03-16T19:24:58 - fix: adjust threshold values based on testing -->
 
 <!-- commit-log: 2026-03-24T21:50:54 - feat: add input validation and error handling -->
+
+<!-- commit-log: 2026-03-28T14:47:07 - fix: correct file path handling on Windows systems -->
