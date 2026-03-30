@@ -37,3 +37,5 @@
 <!-- commit-log: 2026-03-28T14:47:07 - fix: correct file path handling on Windows systems -->
 
 <!-- commit-log: 2026-03-29T20:32:35 - feat: add logging to main processing module -->
+
+<!-- commit-log: 2026-03-30T10:35:51 - perf: cache repeated API calls to reduce latency -->
