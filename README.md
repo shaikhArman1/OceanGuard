@@ -51,3 +51,5 @@
 <!-- commit-log: 2026-05-06T13:02:08 - feat: add retry logic for network requests -->
 
 <!-- commit-log: 2026-05-06T15:13:07 - fix: resolve edge case in data processing pipeline -->
+
+<!-- commit-log: 2026-05-06T16:52:15 - feat: improve error messages for user feedback -->
