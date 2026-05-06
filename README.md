@@ -57,3 +57,5 @@
 <!-- commit-log: 2026-05-06T18:09:20 - fix: resolve edge case in data processing pipeline -->
 
 <!-- commit-log: 2026-05-06T18:53:25 - test: add unit tests for core functions -->
+
+<!-- commit-log: 2026-05-06T20:07:42 - perf: cache repeated API calls to reduce latency -->
