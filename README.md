@@ -53,3 +53,5 @@
 <!-- commit-log: 2026-05-06T15:13:07 - fix: resolve edge case in data processing pipeline -->
 
 <!-- commit-log: 2026-05-06T16:52:15 - feat: improve error messages for user feedback -->
+
+<!-- commit-log: 2026-05-06T18:09:20 - fix: resolve edge case in data processing pipeline -->
