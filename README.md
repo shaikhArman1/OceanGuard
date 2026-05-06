@@ -59,3 +59,5 @@
 <!-- commit-log: 2026-05-06T18:53:25 - test: add unit tests for core functions -->
 
 <!-- commit-log: 2026-05-06T20:07:42 - perf: cache repeated API calls to reduce latency -->
+
+<!-- commit-log: 2026-05-06T22:48:01 - fix: correct file path handling on Windows systems -->
