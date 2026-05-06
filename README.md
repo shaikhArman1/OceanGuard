@@ -45,3 +45,5 @@
 <!-- commit-log: 2026-05-06T10:51:43 - fix: correct file path handling on Windows systems -->
 
 <!-- commit-log: 2026-05-06T12:58:37 - fix: adjust threshold values based on testing -->
+
+<!-- commit-log: 2026-05-06T13:28:30 - refactor: extract helper functions for better modularity -->
