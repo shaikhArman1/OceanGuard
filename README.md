@@ -65,3 +65,5 @@
 <!-- commit-log: 2026-05-06T22:02:27 - refactor: move config values to constants file -->
 
 <!-- commit-log: 2026-05-07T20:54:25 - feat: add retry logic for network requests -->
+
+<!-- commit-log: 2026-05-09T22:03:27 - fix: resolve import ordering and circular dependency -->
