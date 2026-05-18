@@ -73,3 +73,5 @@
 <!-- commit-log: 2026-05-18T11:29:02 - fix: correct file path handling on Windows systems -->
 
 <!-- commit-log: 2026-05-18T16:11:28 - refactor: move config values to constants file -->
+
+<!-- commit-log: 2026-05-18T17:07:13 - fix: resolve edge case in data processing pipeline -->
