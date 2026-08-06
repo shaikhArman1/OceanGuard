@@ -79,3 +79,5 @@
 <!-- commit-log: 2026-05-18T19:31:21 - refactor: move config values to constants file -->
 
 <!-- commit-log: 2026-06-14T12:22:09 - refactor: extract helper functions for better modularity -->
+
+<!-- commit-log: 2026-08-06T09:04:00 - fix: resolve edge case in data processing pipeline -->
