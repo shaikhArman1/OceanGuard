@@ -85,3 +85,5 @@
 <!-- commit-log: 2026-08-06T11:18:07 - perf: cache repeated API calls to reduce latency -->
 
 <!-- commit-log: 2026-08-06T14:33:45 - chore: update requirements.txt with pinned versions -->
+
+<!-- commit-log: 2026-08-06T16:51:15 - refactor: move config values to constants file -->
