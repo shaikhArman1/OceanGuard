@@ -83,3 +83,5 @@
 <!-- commit-log: 2026-08-06T09:04:00 - fix: resolve edge case in data processing pipeline -->
 
 <!-- commit-log: 2026-08-06T11:18:07 - perf: cache repeated API calls to reduce latency -->
+
+<!-- commit-log: 2026-08-06T14:33:45 - chore: update requirements.txt with pinned versions -->
