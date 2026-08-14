@@ -91,3 +91,5 @@
 <!-- commit-log: 2026-08-06T21:18:43 - chore: update requirements.txt with pinned versions -->
 
 <!-- commit-log: 2026-08-06T22:08:49 - chore: remove unused imports and dead code -->
+
+<!-- commit-log: 2026-08-14T10:48:50 - refactor: move config values to constants file -->
