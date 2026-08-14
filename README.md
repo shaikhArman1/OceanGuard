@@ -99,3 +99,5 @@
 <!-- commit-log: 2026-08-14T15:55:47 - feat: improve error messages for user feedback -->
 
 <!-- commit-log: 2026-08-14T19:39:36 - fix: resolve edge case in data processing pipeline -->
+
+<!-- commit-log: 2026-08-14T20:57:04 - feat: add input validation and error handling -->
