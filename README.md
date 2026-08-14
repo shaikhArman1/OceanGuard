@@ -93,3 +93,5 @@
 <!-- commit-log: 2026-08-06T22:08:49 - chore: remove unused imports and dead code -->
 
 <!-- commit-log: 2026-08-14T10:48:50 - refactor: move config values to constants file -->
+
+<!-- commit-log: 2026-08-14T12:57:29 - refactor: clean up utility functions and improve code readability -->
