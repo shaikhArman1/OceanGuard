@@ -97,3 +97,5 @@
 <!-- commit-log: 2026-08-14T12:57:29 - refactor: clean up utility functions and improve code readability -->
 
 <!-- commit-log: 2026-08-14T15:55:47 - feat: improve error messages for user feedback -->
+
+<!-- commit-log: 2026-08-14T19:39:36 - fix: resolve edge case in data processing pipeline -->
