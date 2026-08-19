@@ -103,3 +103,5 @@
 <!-- commit-log: 2026-08-14T20:57:04 - feat: add input validation and error handling -->
 
 <!-- commit-log: 2026-08-19T11:52:35 - feat: improve error messages for user feedback -->
+
+<!-- commit-log: 2026-08-19T12:40:48 - perf: optimize loop logic to reduce processing time -->
