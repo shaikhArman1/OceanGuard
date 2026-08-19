@@ -105,3 +105,5 @@
 <!-- commit-log: 2026-08-19T11:52:35 - feat: improve error messages for user feedback -->
 
 <!-- commit-log: 2026-08-19T12:40:48 - perf: optimize loop logic to reduce processing time -->
+
+<!-- commit-log: 2026-08-19T14:56:05 - docs: update inline comments and docstrings -->
