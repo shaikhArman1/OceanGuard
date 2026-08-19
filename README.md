@@ -111,3 +111,5 @@
 <!-- commit-log: 2026-08-19T18:25:11 - perf: optimize loop logic to reduce processing time -->
 
 <!-- commit-log: 2026-08-19T21:36:13 - feat: add retry logic for network requests -->
+
+<!-- commit-log: 2026-08-19T22:09:41 - feat: improve error messages for user feedback -->
