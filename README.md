@@ -107,3 +107,5 @@
 <!-- commit-log: 2026-08-19T12:40:48 - perf: optimize loop logic to reduce processing time -->
 
 <!-- commit-log: 2026-08-19T14:56:05 - docs: update inline comments and docstrings -->
+
+<!-- commit-log: 2026-08-19T18:25:11 - perf: optimize loop logic to reduce processing time -->
